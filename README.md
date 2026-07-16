@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ManavPofale/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ManavPofale/DSA_JAVA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ManavPofale/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0283-move-zeroes) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ManavPofale/DSA_JAVA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ManavPofale/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ManavPofale/DSA_JAVA/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
