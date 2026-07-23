@@ -10,6 +10,7 @@ class Solution {
             while(left<right && !Character.isLetterOrDigit(s.charAt(right))){
                 right--;
             }
+            //converting to lowercase characters
             char l=Character.toLowerCase(s.charAt(left));
             char r=Character.toLowerCase(s.charAt(right));
 
