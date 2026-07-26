@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0728-self-dividing-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ManavPofale/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ManavPofale/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ManavPofale/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
