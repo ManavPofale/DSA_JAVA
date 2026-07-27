@@ -1,9 +1,33 @@
+// class Solution {
+//     public void sortColors(int[] nums) {
+//         int n = nums.length;
+//         int i=0;
+//         for(int j=0;j<n;j++){
+//             if(nums[j]==0){
+//                 int temp = nums[i];
+//                 nums[i] = nums[j];
+//                 nums[j] = temp;
+//                 i++;
+//             }
+//         }
+//         for(int j=i;j<n;j++){
+//             if(nums[j]==1){
+//                 int temp=nums[i];
+//                 nums[i]=nums[j];
+//                 nums[j]=temp;
+//                 i++;
+//             }
+//         }
+//     }
+// }
+
 class Solution {
     public void sortColors(int[] nums) {
         int n = nums.length;
-        int i=0;
+        int i = 0;
+
         for(int j=0;j<n;j++){
-            if(nums[j]==0){
+            if(nums[j] == 0){
                 int temp = nums[i];
                 nums[i] = nums[j];
                 nums[j] = temp;
@@ -11,10 +35,10 @@ class Solution {
             }
         }
         for(int j=i;j<n;j++){
-            if(nums[j]==1){
-                int temp=nums[i];
-                nums[i]=nums[j];
-                nums[j]=temp;
+            if(nums[j] == 1){
+                int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
                 i++;
             }
         }
