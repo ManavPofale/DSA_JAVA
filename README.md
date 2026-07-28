@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ManavPofale/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
