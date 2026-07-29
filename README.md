@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/ManavPofale/DSA_JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -143,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/ManavPofale/DSA_JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
