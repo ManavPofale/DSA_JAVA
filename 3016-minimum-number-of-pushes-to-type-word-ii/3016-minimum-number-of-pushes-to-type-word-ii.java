@@ -8,16 +8,7 @@ class Solution {
         int keypress = 0;
         int count = 0;
         for(int i=25;i>=0;i--){
-            // int mul = 0;
-            // if(count<8){
-            //     mul=1;
-            // }else if(count<16){
-            //     mul=2;
-            // }else if(count<24){
-            //     mul=3;
-            // }else{
-            //     mul=4;
-            // }
+            if(arr[i]==0) break;
             int val=arr[i]*(count/8 + 1);
             keypress+=val;
             count++;
