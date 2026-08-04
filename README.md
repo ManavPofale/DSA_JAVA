@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ManavPofale/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/ManavPofale/DSA_JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/ManavPofale/DSA_JAVA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1406-stone-game-iii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ManavPofale/DSA_JAVA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
