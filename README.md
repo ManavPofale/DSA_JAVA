@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ManavPofale/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ManavPofale/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ManavPofale/DSA_JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/ManavPofale/DSA_JAVA/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ManavPofale/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0728-self-dividing-numbers) |
