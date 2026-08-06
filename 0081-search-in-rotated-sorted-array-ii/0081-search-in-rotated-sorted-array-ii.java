@@ -6,16 +6,17 @@ class Solution {
             int mid=left+(right-left)/2;
             if(nums[mid]==target){
                 return true;
+            //removing the duplicates    
             }else if(nums[left]==nums[mid] && nums[mid]==nums[right]){
                 left++;
                 right--;
-            }else if(nums[left]<=nums[mid]){
+            }else if(nums[left]<=nums[mid]){  //left half sorted
                 if(nums[left]<=target && target<nums[mid]){
                     right=mid-1;
                 }else{
                     left=mid+1;
                 }
-            }else {
+            }else {  //right half sorted
                 if(nums[mid]<target && target<=nums[right]){
                     left=mid+1;
                 }else{
