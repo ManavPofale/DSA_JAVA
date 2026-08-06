@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ManavPofale/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ManavPofale/DSA_JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ManavPofale/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/ManavPofale/DSA_JAVA/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ManavPofale/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/ManavPofale/DSA_JAVA/tree/master/0881-boats-to-save-people) |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
 |  |
