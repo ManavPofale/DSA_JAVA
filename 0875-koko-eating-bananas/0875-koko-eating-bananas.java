@@ -43,7 +43,7 @@ class Solution {
     public boolean isValid(int[] piles, int mid, int h){
         int ch=0;
         for(int i=0;i<piles.length;i++){
-            if(piles[i]%mid==0 && piles[i]>= mid){
+            if(piles[i]%mid==0 ){
                 ch+=piles[i]/mid;
             }else{
                 ch+=(piles[i]/mid)+1;
