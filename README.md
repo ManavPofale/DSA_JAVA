@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ManavPofale/DSA_JAVA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ManavPofale/DSA_JAVA/tree/master/0986-interval-list-intersections) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManavPofale/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ManavPofale/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,12 +286,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ManavPofale/DSA_JAVA/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManavPofale/DSA_JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManavPofale/DSA_JAVA/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
