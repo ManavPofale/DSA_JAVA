@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ManavPofale/DSA_JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManavPofale/DSA_JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavPofale/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/ManavPofale/DSA_JAVA/tree/master/3731-find-missing-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavPofale/DSA_JAVA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavPofale/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ManavPofale/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 ## Ternary Search
 |  |
 | ------- |
