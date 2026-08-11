@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ManavPofale/DSA_JAVA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ManavPofale/DSA_JAVA/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
