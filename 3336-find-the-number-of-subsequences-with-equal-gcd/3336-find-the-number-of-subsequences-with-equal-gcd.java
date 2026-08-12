@@ -1,13 +1,10 @@
 class Solution {
     private static final int MOD = 1_000_000_007;
-
     public int subsequencePairCount(int[] nums) {
         int m = 0;
-
         for (int x : nums) {
             m = Math.max(m, x);
         }
-
         long[][] dp = new long[m + 1][m + 1];
         dp[0][0] = 1;
         for (int x : nums) {
