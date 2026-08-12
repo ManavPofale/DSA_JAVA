@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/ManavPofale/DSA_JAVA/tree/master/1207-unique-number-of-occurrences) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManavPofale/DSA_JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManavPofale/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ManavPofale/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManavPofale/DSA_JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManavPofale/DSA_JAVA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
