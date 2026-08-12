@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/ManavPofale/DSA_JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManavPofale/DSA_JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManavPofale/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/ManavPofale/DSA_JAVA/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavPofale/DSA_JAVA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavPofale/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ManavPofale/DSA_JAVA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ManavPofale/DSA_JAVA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavPofale/DSA_JAVA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
