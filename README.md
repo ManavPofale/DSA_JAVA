@@ -394,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ManavPofale/DSA_JAVA/tree/master/0334-increasing-triplet-subsequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ManavPofale/DSA_JAVA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
