@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ManavPofale/DSA_JAVA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0728-self-dividing-numbers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ManavPofale/DSA_JAVA/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManavPofale/DSA_JAVA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
