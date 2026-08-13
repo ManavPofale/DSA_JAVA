@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ManavPofale/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ManavPofale/DSA_JAVA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ManavPofale/DSA_JAVA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ManavPofale/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ManavPofale/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ManavPofale/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ManavPofale/DSA_JAVA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ManavPofale/DSA_JAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ManavPofale/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
