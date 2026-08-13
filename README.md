@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ManavPofale/DSA_JAVA/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0605-can-place-flowers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ManavPofale/DSA_JAVA/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/ManavPofale/DSA_JAVA/tree/master/0704-binary-search) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ManavPofale/DSA_JAVA/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ManavPofale/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManavPofale/DSA_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManavPofale/DSA_JAVA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
