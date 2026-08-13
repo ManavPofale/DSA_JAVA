@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ManavPofale/DSA_JAVA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/ManavPofale/DSA_JAVA/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/ManavPofale/DSA_JAVA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ManavPofale/DSA_JAVA/tree/master/0948-bag-of-tokens) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/ManavPofale/DSA_JAVA/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/ManavPofale/DSA_JAVA/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
