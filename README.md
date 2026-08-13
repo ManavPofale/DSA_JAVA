@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/ManavPofale/DSA_JAVA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/ManavPofale/DSA_JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManavPofale/DSA_JAVA/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
@@ -409,10 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [3310-remove-methods-from-project](https://github.com/ManavPofale/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [3310-remove-methods-from-project](https://github.com/ManavPofale/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -442,11 +445,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManavPofale/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManavPofale/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Longest Increasing Subsequence
@@ -490,4 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/ManavPofale/DSA_JAVA/tree/master/0319-bulb-switcher) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
