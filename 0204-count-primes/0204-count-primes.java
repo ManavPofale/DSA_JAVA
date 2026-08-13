@@ -32,6 +32,7 @@ class Solution {
         }
         boolean[] isPrime = new boolean[n];
         //sare numbers prime he mann lete he
+        // pura loop na chana ho to "Arrays.fill(prime, true)" isse use karke sare numbers ko prime man sakte he.
         for(int i=2;i<n;i++){
             isPrime[i] = true;
         }
