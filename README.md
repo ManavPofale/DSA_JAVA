@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/ManavPofale/DSA_JAVA/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/ManavPofale/DSA_JAVA/tree/master/0640-solve-the-equation) |
 | [0728-self-dividing-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ManavPofale/DSA_JAVA/tree/master/0443-string-compression) |
 | [0537-complex-number-multiplication](https://github.com/ManavPofale/DSA_JAVA/tree/master/0537-complex-number-multiplication) |
+| [0640-solve-the-equation](https://github.com/ManavPofale/DSA_JAVA/tree/master/0640-solve-the-equation) |
 | [0680-valid-palindrome-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ManavPofale/DSA_JAVA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/ManavPofale/DSA_JAVA/tree/master/0537-complex-number-multiplication) |
+| [0640-solve-the-equation](https://github.com/ManavPofale/DSA_JAVA/tree/master/0640-solve-the-equation) |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
@@ -540,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/ManavPofale/DSA_JAVA/tree/master/0478-generate-random-point-in-a-circle) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/ManavPofale/DSA_JAVA/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
