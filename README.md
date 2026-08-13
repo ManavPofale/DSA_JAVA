@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ManavPofale/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ManavPofale/DSA_JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ManavPofale/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ManavPofale/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManavPofale/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/ManavPofale/DSA_JAVA/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/ManavPofale/DSA_JAVA/tree/master/1207-unique-number-of-occurrences) |
@@ -443,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManavPofale/DSA_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
