@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0509-fibonacci-number) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ManavPofale/DSA_JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ManavPofale/DSA_JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManavPofale/DSA_JAVA/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0509-fibonacci-number) |
 ## Game Theory
