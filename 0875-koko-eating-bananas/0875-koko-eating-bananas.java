@@ -9,7 +9,12 @@ class Solution {
             int mid=l+(r-l)/2;
             long hours=0;
             for(int pile:piles){
-                hours+=(pile+(long) mid-1)/mid;
+                // hours+=(pile+(long) mid-1)/mid;
+                if(pile%mid==0){
+                    hours+=pile/mid;
+                }else{
+                    hours+=(pile/mid)+1;
+                }
                 if(hours>h){
                     break;
                 }
