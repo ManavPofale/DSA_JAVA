@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/ManavPofale/DSA_JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManavPofale/DSA_JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ManavPofale/DSA_JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManavPofale/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ManavPofale/DSA_JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManavPofale/DSA_JAVA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/ManavPofale/DSA_JAVA/tree/master/2029-stone-game-ix) |
