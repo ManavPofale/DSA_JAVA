@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ManavPofale/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManavPofale/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ManavPofale/DSA_JAVA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ManavPofale/DSA_JAVA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ManavPofale/DSA_JAVA/tree/master/0067-add-binary) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ManavPofale/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManavPofale/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ManavPofale/DSA_JAVA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ManavPofale/DSA_JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ManavPofale/DSA_JAVA/tree/master/0125-valid-palindrome) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ManavPofale/DSA_JAVA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/ManavPofale/DSA_JAVA/tree/master/0537-complex-number-multiplication) |
