@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ManavPofale/DSA_JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManavPofale/DSA_JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/ManavPofale/DSA_JAVA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManavPofale/DSA_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavPofale/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/ManavPofale/DSA_JAVA/tree/master/0537-complex-number-multiplication) |
 | [0640-solve-the-equation](https://github.com/ManavPofale/DSA_JAVA/tree/master/0640-solve-the-equation) |
+| [1929-concatenation-of-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
