@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ManavPofale/DSA_JAVA/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0948-bag-of-tokens](https://github.com/ManavPofale/DSA_JAVA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ManavPofale/DSA_JAVA/tree/master/0986-interval-list-intersections) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/ManavPofale/DSA_JAVA/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManavPofale/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManavPofale/DSA_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1207-unique-number-of-occurrences](https://github.com/ManavPofale/DSA_JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavPofale/DSA_JAVA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavPofale/DSA_JAVA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ManavPofale/DSA_JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2029-stone-game-ix](https://github.com/ManavPofale/DSA_JAVA/tree/master/2029-stone-game-ix) |
@@ -480,12 +485,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManavPofale/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManavPofale/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Longest Increasing Subsequence
