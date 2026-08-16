@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ManavPofale/DSA_JAVA/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/ManavPofale/DSA_JAVA/tree/master/0335-self-crossing) |
 | [0410-split-array-largest-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ManavPofale/DSA_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ManavPofale/DSA_JAVA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/ManavPofale/DSA_JAVA/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/ManavPofale/DSA_JAVA/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/ManavPofale/DSA_JAVA/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/ManavPofale/DSA_JAVA/tree/master/0367-valid-perfect-square) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/ManavPofale/DSA_JAVA/tree/master/0335-self-crossing) |
 | [0478-generate-random-point-in-a-circle](https://github.com/ManavPofale/DSA_JAVA/tree/master/0478-generate-random-point-in-a-circle) |
 ## Linear Algebra
 |  |
