@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ManavPofale/DSA_JAVA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ManavPofale/DSA_JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ManavPofale/DSA_JAVA/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ManavPofale/DSA_JAVA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0204-count-primes) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ManavPofale/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManavPofale/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/ManavPofale/DSA_JAVA/tree/master/0076-minimum-window-substring) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ManavPofale/DSA_JAVA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ManavPofale/DSA_JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ManavPofale/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ManavPofale/DSA_JAVA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
