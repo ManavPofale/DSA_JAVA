@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ManavPofale/DSA_JAVA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ManavPofale/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ManavPofale/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManavPofale/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/ManavPofale/DSA_JAVA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/ManavPofale/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ManavPofale/DSA_JAVA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0268-missing-number) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ManavPofale/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 ## Primality Test
@@ -619,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ManavPofale/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
