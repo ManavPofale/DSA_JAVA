@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManavPofale/DSA_JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ManavPofale/DSA_JAVA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1672-richest-customer-wealth](https://github.com/ManavPofale/DSA_JAVA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ManavPofale/DSA_JAVA/tree/master/1732-find-the-highest-altitude) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManavPofale/DSA_JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ManavPofale/DSA_JAVA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ManavPofale/DSA_JAVA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManavPofale/DSA_JAVA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ManavPofale/DSA_JAVA/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ManavPofale/DSA_JAVA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/ManavPofale/DSA_JAVA/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManavPofale/DSA_JAVA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -412,10 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/ManavPofale/DSA_JAVA/tree/master/0844-backspace-string-compare) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Counting Sort
 |  |
 | ------- |
