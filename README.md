@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/ManavPofale/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/ManavPofale/DSA_JAVA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ManavPofale/DSA_JAVA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/ManavPofale/DSA_JAVA/tree/master/0537-complex-number-multiplication) |
 | [0640-solve-the-equation](https://github.com/ManavPofale/DSA_JAVA/tree/master/0640-solve-the-equation) |
 | [0680-valid-palindrome-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/ManavPofale/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManavPofale/DSA_JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/ManavPofale/DSA_JAVA/tree/master/0537-complex-number-multiplication) |
 | [0640-solve-the-equation](https://github.com/ManavPofale/DSA_JAVA/tree/master/0640-solve-the-equation) |
+| [0844-backspace-string-compare](https://github.com/ManavPofale/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/ManavPofale/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
