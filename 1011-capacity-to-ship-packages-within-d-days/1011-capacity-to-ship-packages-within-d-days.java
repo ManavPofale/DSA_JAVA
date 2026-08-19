@@ -5,7 +5,7 @@ class Solution {
             l=Math.max(l, weight);
             r+=weight;
         }
-        while(l<r){
+        while(l<=r){
             int mid = l+(r-l)/2;
             int day=1;
             int load=0;
@@ -20,7 +20,7 @@ class Solution {
             if(day>days){
                 l=mid+1;
             }else{
-                r=mid;
+                r=mid-1;
             }
         }
         return l;
