@@ -8,13 +8,14 @@ class Solution {
         while(l<r){
             int mid = l+(r-l)/2;
             int day=1;
-            int sum=0;
+            int load=0;
             for(int weight : weights){
-                if(sum+weight>mid){
+                if(load+weight>mid){
                     day++;
-                    sum=0;
-                }
-                sum+=weight;
+                    load=weight;
+                }else{
+                    load+=weight;
+                }    
             }
             if(day>days){
                 l=mid+1;
