@@ -20,7 +20,7 @@ class Solution {
     public boolean isValid(int mid, int[] nums, int threshold){
         int sum=0;
         for(int num:nums){
-            sum+=(num+mid-1)/mid;
+            sum+= (int)Math.ceil((double)num/mid);
             if(sum>threshold){
                 return false;
             }
