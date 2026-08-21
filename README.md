@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0948-bag-of-tokens](https://github.com/ManavPofale/DSA_JAVA/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/ManavPofale/DSA_JAVA/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ManavPofale/DSA_JAVA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ManavPofale/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/ManavPofale/DSA_JAVA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ManavPofale/DSA_JAVA/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/ManavPofale/DSA_JAVA/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ManavPofale/DSA_JAVA/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ManavPofale/DSA_JAVA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -417,11 +419,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/ManavPofale/DSA_JAVA/tree/master/0844-backspace-string-compare) |
+| [0962-maximum-width-ramp](https://github.com/ManavPofale/DSA_JAVA/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
+| [0962-maximum-width-ramp](https://github.com/ManavPofale/DSA_JAVA/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Counting Sort
 |  |
