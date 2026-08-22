@@ -656,4 +656,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManavPofale/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ManavPofale/DSA_JAVA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ManavPofale/DSA_JAVA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
