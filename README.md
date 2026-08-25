@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManavPofale/DSA_JAVA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1872-stone-game-viii) |
+| [1922-count-good-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/ManavPofale/DSA_JAVA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManavPofale/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
 | ------- |
