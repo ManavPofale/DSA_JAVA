@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManavPofale/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManavPofale/DSA_JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManavPofale/DSA_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ManavPofale/DSA_JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ManavPofale/DSA_JAVA/tree/master/3731-find-missing-elements) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManavPofale/DSA_JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManavPofale/DSA_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ManavPofale/DSA_JAVA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ManavPofale/DSA_JAVA/tree/master/3731-find-missing-elements) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ManavPofale/DSA_JAVA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManavPofale/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManavPofale/DSA_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ManavPofale/DSA_JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [3310-remove-methods-from-project](https://github.com/ManavPofale/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManavPofale/DSA_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ManavPofale/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ManavPofale/DSA_JAVA/tree/master/1672-richest-customer-wealth) |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManavPofale/DSA_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Ternary Search
 |  |
 | ------- |
