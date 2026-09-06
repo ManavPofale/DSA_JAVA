@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ManavPofale/DSA_JAVA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ManavPofale/DSA_JAVA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/ManavPofale/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ManavPofale/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ManavPofale/DSA_JAVA/tree/master/0166-fraction-to-recurring-decimal) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ManavPofale/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ManavPofale/DSA_JAVA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/ManavPofale/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManavPofale/DSA_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ManavPofale/DSA_JAVA/tree/master/0486-predict-the-winner) |
