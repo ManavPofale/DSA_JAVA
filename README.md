@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ManavPofale/DSA_JAVA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
+| [0835-image-overlap](https://github.com/ManavPofale/DSA_JAVA/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ManavPofale/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0877-stone-game) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ManavPofale/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/ManavPofale/DSA_JAVA/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/ManavPofale/DSA_JAVA/tree/master/1672-richest-customer-wealth) |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManavPofale/DSA_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
