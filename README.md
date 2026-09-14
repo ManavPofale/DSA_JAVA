@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/ManavPofale/DSA_JAVA/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/ManavPofale/DSA_JAVA/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/ManavPofale/DSA_JAVA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ManavPofale/DSA_JAVA/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0335-self-crossing](https://github.com/ManavPofale/DSA_JAVA/tree/master/0335-self-crossing) |
 | [0478-generate-random-point-in-a-circle](https://github.com/ManavPofale/DSA_JAVA/tree/master/0478-generate-random-point-in-a-circle) |
+| [0836-rectangle-overlap](https://github.com/ManavPofale/DSA_JAVA/tree/master/0836-rectangle-overlap) |
 ## Linear Algebra
 |  |
 | ------- |
