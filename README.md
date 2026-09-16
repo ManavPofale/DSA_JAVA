@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManavPofale/DSA_JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManavPofale/DSA_JAVA/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManavPofale/DSA_JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/ManavPofale/DSA_JAVA/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/ManavPofale/DSA_JAVA/tree/master/2029-stone-game-ix) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManavPofale/DSA_JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/ManavPofale/DSA_JAVA/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManavPofale/DSA_JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManavPofale/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManavPofale/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManavPofale/DSA_JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManavPofale/DSA_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sweep Line
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManavPofale/DSA_JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/ManavPofale/DSA_JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/ManavPofale/DSA_JAVA/tree/master/3903-smallest-stable-index-i) |
