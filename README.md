@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ManavPofale/DSA_JAVA/tree/master/0890-find-and-replace-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ManavPofale/DSA_JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManavPofale/DSA_JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManavPofale/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavPofale/DSA_JAVA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/ManavPofale/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/ManavPofale/DSA_JAVA/tree/master/0962-maximum-width-ramp) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ManavPofale/DSA_JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ManavPofale/DSA_JAVA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManavPofale/DSA_JAVA/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ManavPofale/DSA_JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
