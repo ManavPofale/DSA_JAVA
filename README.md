@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ManavPofale/DSA_JAVA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ManavPofale/DSA_JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ManavPofale/DSA_JAVA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ManavPofale/DSA_JAVA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/ManavPofale/DSA_JAVA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/0189-rotate-array) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ManavPofale/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ManavPofale/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ManavPofale/DSA_JAVA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ManavPofale/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManavPofale/DSA_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/ManavPofale/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ManavPofale/DSA_JAVA/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
