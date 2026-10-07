@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ManavPofale/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ManavPofale/DSA_JAVA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0301-remove-invalid-parentheses](https://github.com/ManavPofale/DSA_JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManavPofale/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/ManavPofale/DSA_JAVA/tree/master/0412-fizz-buzz) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ManavPofale/DSA_JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [1096-brace-expansion-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/ManavPofale/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ManavPofale/DSA_JAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ManavPofale/DSA_JAVA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/ManavPofale/DSA_JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
