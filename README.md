@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/ManavPofale/DSA_JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/ManavPofale/DSA_JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ManavPofale/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManavPofale/DSA_JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManavPofale/DSA_JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/ManavPofale/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ManavPofale/DSA_JAVA/tree/master/0169-majority-element) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManavPofale/DSA_JAVA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1267-count-servers-that-communicate](https://github.com/ManavPofale/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavPofale/DSA_JAVA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ManavPofale/DSA_JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ManavPofale/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [1254-number-of-closed-islands](https://github.com/ManavPofale/DSA_JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ManavPofale/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManavPofale/DSA_JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/ManavPofale/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ManavPofale/DSA_JAVA/tree/master/0365-water-and-jug-problem) |
 | [1096-brace-expansion-ii](https://github.com/ManavPofale/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/ManavPofale/DSA_JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ManavPofale/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/ManavPofale/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManavPofale/DSA_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ManavPofale/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/ManavPofale/DSA_JAVA/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ManavPofale/DSA_JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ManavPofale/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/ManavPofale/DSA_JAVA/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManavPofale/DSA_JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavPofale/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
@@ -922,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ManavPofale/DSA_JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ManavPofale/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManavPofale/DSA_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Shortest Path
 |  |
